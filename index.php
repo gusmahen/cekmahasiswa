@@ -6,20 +6,20 @@
     <title>Pencarian Nama di Tabel</title>
     <style>
         body {
-            background-color: gold;
+            background-color: #b3ecf1;
         }
         table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
-            background-color: aqua;
+            background-color: #83dfe9;
         }
         th, td {
             padding: 10px;
             border: 1px solid #ccc;
         }
         th {
-            background-color: #0066ff;
+            background-color: #1dadc0;
         }
 
          button {
