@@ -6,13 +6,13 @@
     <title>Detail Nilai Mahasiswa</title>
     <style>
         body {
-            background-color: gold;
+            background-color: #b3ecf1;
         }
         table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
-            background-color: aqua;
+            background-color: #83dfe9;
         }
         table, th, td {
             border: 1px solid #ccc;
@@ -22,7 +22,7 @@
             text-align: left;
         }
         th {
-            background-color: #0066ff ;
+            background-color:  #1dadc0 ;
         }
         .semester-buttons {
             margin-bottom: 20px;
